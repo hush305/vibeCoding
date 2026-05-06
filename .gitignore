@@ -1,0 +1,6 @@
+.mcp.json
+.claude
+.env
+venv/
+__pycache__/
+node_modules/
